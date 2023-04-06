@@ -1,4 +1,5 @@
 # libirecovery
+![image](https://user-images.githubusercontent.com/72942240/230320520-e7cb0eef-c6b1-41d0-b73b-ea094beaa821.png)
 
 *The libirecovery library allows communication with iBoot/iBSS of iOS devices
 via USB.*
